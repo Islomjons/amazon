@@ -1,0 +1,13 @@
+{
+    "delivary__label": "Delivery to",
+    "country": "Uzbekistan",
+    "select__all" : "All",
+    "select__laptop": "Laptops",
+    "select__iphone" : "Iphone",
+    "select__bike": "Bike",
+    "sign__in": "Hello,sign in",
+    "listOf__account" : "Account & Lists",
+    "return" : "Returns",
+    "order" : "Orders",
+    "cart" : "Cart"
+}

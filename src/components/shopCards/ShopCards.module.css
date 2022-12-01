@@ -1,0 +1,64 @@
+.shopcards {
+    width: 1400px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.shopcardsWrapper {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.shopcardsItem {
+    max-width: 335px;
+    width: 100%;
+    background-color: var(--primary-white-color);
+    padding: 25px 20px 20px 20px;
+    transition: 0.3s ease;
+}
+
+.shopcardsItem:hover {
+    transform: scale(1.03);
+}
+
+.shopcardstitle {
+    margin-bottom: 10px;
+    font-size: 21px;
+    line-height: 27px;
+}
+
+.productcards_img {
+    width: 300px;
+    height: 304px;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+
+.shopcardslink {
+    text-decoration: none;
+    color: #007185;
+    font-size: 13px;
+    line-height: 19px;
+}
+
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+.categoryWrapper {
+
+}
+
+.categoryImg {
+    width: 130px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.categorySubtitle {
+    font-size: 12px;
+}
+

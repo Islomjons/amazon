@@ -1,0 +1,13 @@
+{
+    "delivary__label": "Доставка к", 
+    "country" : "Узбекистан",
+    "select__all" : "Все",
+    "select__laptop": "Ноутбуки",
+    "select__iphone" : "Aйфон",
+    "select__bike": "Велосипед",
+    "sign__in": "Здравствуйте, войдите",
+    "listOf__account": "список счетов",
+    "return" : "Возвращаться",
+    "order" : "Заказы",
+    "cart" : "Тележки"
+}

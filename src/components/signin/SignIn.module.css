@@ -1,0 +1,70 @@
+.sign__in {
+    background-color: var(--primary-white-color);
+    padding-top: 40px;
+    padding-bottom: 25px;
+}
+
+.sign__inWrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 40px;
+    padding-bottom: 18px;
+}
+
+
+.btn__wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.see__text {
+    font-size: 12px;
+    line-height: 15px;
+    color: var(--primary-black-color);
+    margin-bottom: 5px;
+}
+
+.sign__inBtn {
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 28px;
+    color: var(--primary-black-color);
+    background-color: var(--primary-orange-color);
+    color: var(--primary-black-color);
+    max-width: 230px;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 5px;
+    border-radius: 3px;
+    font-weight: bold;
+}
+
+.sign__inBtn:hover {
+    opacity: 0.8;
+}
+
+.sign__inBtn:active {
+    opacity: 0.5;
+}
+
+.link__wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+
+.sign__inCustom {
+    font-size: 11px;
+    line-height: 15px;
+    color: var(--primary-black-color);
+}
+
+.start__link {
+    text-decoration: none;
+    color: #007185;
+    font-size: 11px;
+    line-height: 15px;
+}

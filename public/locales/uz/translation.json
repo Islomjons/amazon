@@ -1,0 +1,13 @@
+{
+    "delivary__label": "Yetkazish",
+    "country": "O'zbekiston" ,
+    "select__all" : "Hammasi" ,
+    "select__laptop" : "Noutbuklar",
+    "select__iphone" : "Ayfon smartfoni",
+    "select__bike": "Velosiped",
+    "sign__in": "Salom, tizimga kiring",
+    "listOf__account": "hisob ro'yxati",
+    "return" : "Qaytish",
+    "order" : "Buturtmalar",
+    "cart" : "Aravalar"
+}

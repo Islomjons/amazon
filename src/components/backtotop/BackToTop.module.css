@@ -1,0 +1,9 @@
+.backtotop{
+    padding: 20px 0;
+    color: var(--primary-white-color);
+    font-size: 20px;
+    text-align: center;
+    background-color: #37475A;
+    font-size: 13px;
+    cursor: pointer;
+  }
